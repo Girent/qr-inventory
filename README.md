@@ -5,7 +5,7 @@
   ![main](https://user-images.githubusercontent.com/98615658/158384256-c4c81824-67bf-46b2-a4f7-613e473a4ef9.jpg)
   ![new](https://user-images.githubusercontent.com/98615658/158384324-e40ace45-8ecd-4102-831c-a967991a7d09.jpg)
   ---
-Для успешного использование вам понадобиться:
+## Для успешного использование вам понадобиться:
 ---
   В файле config.php подключиться к своей БД
   ---
